@@ -1,0 +1,690 @@
+{
+    "batchcomplete": true,
+    "warnings": {
+        "query": {
+            "warnings": "Unrecognized value for parameter \"prop\": title"
+        }
+    },
+    "query": {
+        "searchinfo": {
+            "totalhits": 75
+        },
+        "search": [
+            {
+                "ns": 0,
+                "title": "Q80",
+                "pageid": 139,
+                "size": 253928,
+                "wordcount": 1535,
+                "snippet": "Tim Berners-Lee\nTim Berners-Lee\nTim Berners-Lee\nTim Berners-Lee\nTim Berners-Lee\nTim Berners-Lee\nTim Berners-Lee\nTim Berners-Lee\nTim Berners-Lee\nTim Berners-Lee",
+                "timestamp": "2022-12-08T04:00:23Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q3572699",
+                "pageid": 3401350,
+                "size": 80391,
+                "wordcount": 243,
+                "snippet": "Yoshua Bengio\nYoshua Bengio\nYoshua Bengio\nYoshua Bengio\nYoshua Bengio\nYoshua Bengio\nYoshua Bengio\nYoshua Bengio\nYoshua Bengio\nYoshua Bengio\nYoshua Bengio",
+                "timestamp": "2022-11-17T11:28:15Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92894",
+                "pageid": 95120,
+                "size": 98665,
+                "wordcount": 356,
+                "snippet": "Geoffrey Hinton\nGeoffrey Hinton\n\u0414\u0436\u0435\u0444\u0444\u0440\u0438 \u0425\u0438\u043d\u0442\u043e\u043d\nGeoffrey Hinton\nGeoffrey Hinton\nGeoffrey Hinton\nGeoffrey Hinton\nGeoffrey Hinton\n\u6770\u5f17\u91cc\u00b7\u8f9b\u987f\n\u6770\u5f17\u91cc\u00b7\u8f9b\u987f\n\u30b8\u30a7\u30d5\u30ea\u30fc\u30fb\u30d2\u30f3\u30c8\u30f3",
+                "timestamp": "2022-11-19T20:20:46Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q17457",
+                "pageid": 20249,
+                "size": 246218,
+                "wordcount": 582,
+                "snippet": "Donald Knuth\n\u039d\u03c4\u03cc\u03bd\u03b1\u03bb\u03bd\u03c4 \u039a\u03bd\u03bf\u03c5\u03b8\nDonald Knuth\nDonald Knuth\nDonald Knuth\nDonald E. Knuth\nDonald Knuth\nDonald Ervin Knuth\nDonalds Knuts\nDonald Knuth\nDonald Knuth",
+                "timestamp": "2022-12-02T07:29:46Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92612",
+                "pageid": 94835,
+                "size": 116023,
+                "wordcount": 393,
+                "snippet": "Richard Karp\nRichard Karp\n\u7406\u67e5\u5fb7\u00b7\u5361\u666e\n\u7406\u67e5\u5fb7\u00b7\u5361\u666e\n\u7406\u67e5\u5fb7\u00b7\u5361\u666e\n\u7406\u67e5\u5fb7\u00b7\u5361\u666e\n\u7406\u67e5\u5fb7\u00b7\u5361\u666e\n\u7406\u5bdf\u00b7\u5361\u666e\nRichard Karp\nRichard Karp\n\u0420\u0438\u0447\u0430\u0440\u0434 \u041c\u044d\u043d\u043d\u0438\u043d\u0433 \u041a\u0430\u0440\u043f\nRichard Karp\n\u05e8\u05d9\u05e6'\u05e8\u05d3 \u05e7\u05d0\u05e8\u05e4\nRichard Karp",
+                "timestamp": "2022-11-10T13:36:28Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92638",
+                "pageid": 94861,
+                "size": 135293,
+                "wordcount": 321,
+                "snippet": "\u7f57\u4f2f\u7279\u00b7\u5854\u626c\n\u7f85\u4f2f\u7279\u00b7\u5854\u63da\n\u7f85\u4f2f\u7279\u00b7\u5854\u63da\n\u7f57\u4f2f\u7279\u00b7\u5854\u626c\n\u7f57\u4f2f\u7279\u00b7\u5854\u626c\n\u7f85\u4f2f\u7279\u00b7\u5854\u63da\nRobert Tarjan\nRobert Tarjan\nRobert Tarjan\n\u0422\u0430\u0440\u044c\u044f\u043d, \u0420\u043e\u0431\u0435\u0440\u0442\nRobert Tarjan\nRobert Tarjan\nRobert Tard\u017ean\n\u0420\u043e\u0431\u0435\u0440\u0442 \u0422\u0430\u0440\u045f\u0430\u043d",
+                "timestamp": "2022-10-18T10:48:31Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92743",
+                "pageid": 94968,
+                "size": 147650,
+                "wordcount": 656,
+                "snippet": "Vinton G. Cerf\n\u6587\u987f\u00b7\u745f\u592b\n\u6587\u9813\u00b7\u745f\u592b\n\u6587\u9813\u00b7\u745f\u592b\n\u6587\u987f\u00b7\u745f\u592b\n\u6587\u987f\u00b7\u745f\u592b\n\u6587\u9813\u00b7\u745f\u592b\nVinton Gray Cerf\n\u05d5\u05d9\u05e0\u05d8 \u05e1\u05e8\u05e3\n\ube48\ud2b8 \uc11c\ud504\nVint Cerf\nVinton Cerf\nVint Cerf\nVint Cerf\nVints Serfs\nVint Cerf\nVinton",
+                "timestamp": "2022-10-26T09:22:16Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92824",
+                "pageid": 95049,
+                "size": 109273,
+                "wordcount": 232,
+                "snippet": "Judea Pearl\nJudea Pearl\n\u30b8\u30e5\u30fc\u30c7\u30a3\u30a2\u30fb\u30d1\u30fc\u30eb\n\u099c\u09c1\u09a1\u09c7\u09af\u09bc\u09be \u09aa\u09be\u09b0\u09cd\u09b2\n\u062c\u0648\u062f\u06cc\u0627 \u067e\u0631\u0644\n\u041f\u0435\u0440\u043b, \u0414\u0436\u0443\u0434\u0430\n\u05d9\u05d4\u05d5\u05d3\u05d4 \u05e4\u05e8\u05dc\nJudea Pearl\nJudea Pearl\nJudea Pearl\nJudea Pearl\nJudea Pearl\nJudea Pearl",
+                "timestamp": "2022-10-10T09:26:37Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q181529",
+                "pageid": 180696,
+                "size": 160469,
+                "wordcount": 666,
+                "snippet": "\u8d6b\u4f2f\u7279\u00b7\u897f\u8499\n\u8d6b\u4f2f\u7279\u00b7\u897f\u8499\n\u8d6b\u4f2f\u7279\u00b7\u897f\u8499\n\u8d6b\u4f2f\u7279\u00b7\u4e9a\u5386\u5c71\u5927\u00b7\u897f\u8499\n\u8d6b\u4f2f\u7279\u00b7\u897f\u8499\n\u8d6b\u4f2f\u7279\u00b7\u4e9e\u6b77\u5c71\u5927\u00b7\u897f\u8499\nHerbert Simon\nHerbert Simon\nHerbert Simon\n\ud5c8\ubc84\ud2b8 \uc0ac\uc774\uba3c\n\u05d4\u05e8\u05d1\u05e8\u05d8 \u05e1\u05d9\u05d9\u05de\u05d5\u05df\nHerbert Simon\n\u0413\u0435\u0440\u0431\u0435\u0440\u0442 \u0421\u0430\u0439\u043c\u0430\u043d\nHerbert",
+                "timestamp": "2022-11-19T17:10:27Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q204815",
+                "pageid": 201180,
+                "size": 196277,
+                "wordcount": 588,
+                "snippet": "\u9a6c\u6587\u00b7\u95f5\u65af\u57fa\n\u99ac\u6587\u00b7\u9594\u65af\u57fa\n\u99ac\u6587\u00b7\u9594\u65af\u57fa\n\u9a6c\u6587\u00b7\u95f5\u65af\u57fa\n\u9a6c\u6587\u00b7\u95f5\u65af\u57fa\n\u99ac\u6587\u00b7\u9594\u65af\u57fa\nMarvin Minsky\nMarvin Minsky\n\u05de\u05e8\u05d5\u05d5\u05d9\u05df \u05de\u05d9\u05e0\u05e1\u05e7\u05d9\n\ub9c8\ube48 \ubbfc\uc2a4\ud0a4\nMarvin Minsky\nMarvin Minsky\nMarvin Minsky\nMarvin Minsky\nMarvin",
+                "timestamp": "2022-12-05T10:57:29Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q578036",
+                "pageid": 543686,
+                "size": 101917,
+                "wordcount": 320,
+                "snippet": "Ronald Rivest\n\u0631\u0648\u0646\u0627\u0644\u062f \u0631\u064a\u0641\u0633\u062a\n\u09b0\u09a8 \u09b0\u09bf\u09ad\u09c7\u09b8\u09cd\u099f\nRon Rivest\nRonald L. Rivest\nRonald L. Rivest\nRon Rivest\nRonald Rivest\nRonald Rivest\n\u05e8\u05d5\u05e0\u05dc\u05d3 \u05e8\u05d9\u05d1\u05e1\u05d8\nRonald Rivest\nRonald",
+                "timestamp": "2022-11-17T13:20:07Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92794",
+                "pageid": 95019,
+                "size": 136635,
+                "wordcount": 326,
+                "snippet": "Jeffrey Ullman\nJeffrey Ullman\nJeffrey Ullman\n\u0414\u0436\u0435\u0444\u0444\u0440\u0438 \u0423\u043b\u044c\u043c\u0430\u043d\nJeffrey Ullman\n\u05d2'\u05e4\u05e8\u05d9 \u05d0\u05d5\u05dc\u05de\u05df\nJeffrey David Ullman\nJeffrey Ullman\n\u0414\u0436\u0435\u0444\u0444\u0440\u0456 \u0423\u043b\u044c\u043c\u0430\u043d\nJeffrey Ullman",
+                "timestamp": "2022-12-03T19:16:32Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92739",
+                "pageid": 94964,
+                "size": 132402,
+                "wordcount": 497,
+                "snippet": "\u7ea6\u7ff0\u00b7\u9ea6\u5361\u9521\n\u7d04\u7ff0\u00b7\u9ea5\u5361\u932b\n\u7d04\u7ff0\u00b7\u9ea5\u5361\u932b\n\u7ea6\u7ff0\u00b7\u9ea6\u5361\u9521\n\u7ea6\u7ff0\u00b7\u9ea6\u5361\u9521\n\u7d04\u7ff0\u00b7\u9ea5\u5361\u932b\nJohn McCarthy\nJohn McCarthy\nJohn McCarthy\nJohn McCarthy\n\uc874 \ub9e4\uce74\uc2dc\n\u05d2'\u05d5\u05df \u05de\u05e7\u05d0\u05e8\u05ea\u05d9\nJohn McCarthy\n\u0b9c\u0bcb\u0ba9\u0bcd \u0bae\u0bc6\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bbf\nJohn",
+                "timestamp": "2022-08-22T17:33:30Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q49823",
+                "pageid": 51873,
+                "size": 138431,
+                "wordcount": 372,
+                "snippet": "Dana Scott\n\u0414\u0435\u0439\u043d\u0430 \u0421\u043a\u043e\u0442\n\u09a1\u09be\u09a8\u09be \u09b8\u09cd\u099f\u09c1\u09af\u09bc\u09be\u09b0\u09cd\u099f \u09b8\u09cd\u0995\u099f\nDana Scott\nDana Scott\nDana Scott\nDana Scott\nDana Scott\nDana Scott\nDana Scott\nDana Scott\nDana S. Scott\nDana Scott",
+                "timestamp": "2022-11-26T04:34:21Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92602",
+                "pageid": 94825,
+                "size": 121416,
+                "wordcount": 691,
+                "snippet": "\u4e1c\u5c3c\u00b7\u970d\u5c14\n\u6771\u5c3c\u00b7\u970d\u723e\n\u6771\u5c3c\u00b7\u970d\u723e\n\u4e1c\u5c3c\u00b7\u970d\u5c14\n\u4e1c\u5c3c\u00b7\u970d\u5c14\n\u6771\u5c3c\u00b7\u970d\u723e\nCharles Antony Richard Hoare\nC. A. R. Hoare\n\ucc30\uc2a4 \uc564\ud130\ub2c8 \ub9ac\ucc98\ub4dc \ud638\uc5b4\nCharles Antony Richard Hoare\nC. A. R. Hoare\nTony Hoare\nTony",
+                "timestamp": "2022-11-30T08:38:12Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q3571662",
+                "pageid": 3400349,
+                "size": 93448,
+                "wordcount": 268,
+                "snippet": "Yann Le Cun\nYann LeCun\n\u042f\u043d \u041b\u0435\u041a\u0443\u043d\nYann LeCun\nYann LeCun\nYann LeCun\nYann LeCun\nYann LeCun\nYann LeCun\nYann LeCun\nYann LeCun\nYann LeCun\n\u71d5\u6a02\u5b58\n\u626c\u2022\u52d2\u4e18\u6069\n\u626c\u00b7\u52d2\u4e18\u6069\n\u042f\u043d \u041b\u0435\u041a\u0443\u043d",
+                "timestamp": "2022-11-25T12:38:30Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92626",
+                "pageid": 94849,
+                "size": 65730,
+                "wordcount": 233,
+                "snippet": "Manuel Blum\nManuel Blum\nManuel Blum\n\u05de\u05e0\u05d5\u05d0\u05dc \u05d1\u05dc\u05d5\u05dd\n\u041c\u0430\u043d\u0443\u044d\u043b\u044c \u0411\u043b\u044e\u043c\nManuel Blum\nManuel Blum\nManuel Blum\nManuel Blum\n\u041c\u0430\u043d\u0443\u0435\u043b \u0411\u043b\u0443\u043c\nManuel Blum\nManuel Blum\nManuel",
+                "timestamp": "2022-08-06T08:58:07Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92758",
+                "pageid": 94983,
+                "size": 77994,
+                "wordcount": 237,
+                "snippet": "Michael Stonebraker\n\u8fc8\u514b\u5c14\u00b7\u65af\u901a\u5e03\u96f7\u514b\n\u9081\u514b\u723e\u00b7\u65af\u901a\u5e03\u96f7\u514b\n\u7c73\u9ad8\u00b7\u65af\u901a\u5e03\u96f7\u514b\n\u8fc8\u514b\u5c14\u00b7\u65af\u901a\u5e03\u96f7\u514b\n\u8fc8\u514b\u5c14\u00b7\u65af\u901a\u5e03\u96f7\u514b\n\u9ea5\u53ef\u00b7\u65af\u901a\u5e03\u96f7\u514b\nMichael Stonebraker\n\u30de\u30a4\u30b1\u30eb\u30fb\u30b9\u30c8\u30fc\u30f3\u30d6\u30ec\u30fc\u30ab\u30fc\n\u041c\u0430\u0439\u043a\u043b \u0421\u0442\u043e\u0443\u043d\u0431\u0440\u0435\u0439\u043a\u0435\u0440\nMichael Stonebraker",
+                "timestamp": "2022-10-10T10:55:22Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q16080922",
+                "pageid": 17698272,
+                "size": 96827,
+                "wordcount": 342,
+                "snippet": "Barbara Liskov\nBarbara Liskov\nBarbara Liskov\nBarbara Liskov\n\u0628\u0627\u0631\u0628\u0627\u0631\u0627 \u0644\u0633\u0643\u0648\u0641\n\u0411\u0430\u0440\u0431\u0430\u0440\u0430 \u041b\u0438\u0441\u043a\u043e\u0432\n\u09ac\u09be\u09b0\u09ac\u09be\u09b0\u09be \u09b2\u09bf\u09b8\u0995\u09ad\nBarbara Liskov\n\u0628\u0627\u0631\u0628\u0627\u0631\u0627 \u0644\u06cc\u0633\u06a9\u0641\nBarbara Liskov\n\u30d0\u30fc\u30d0\u30e9\u30fb\u30ea\u30b9\u30b3\u30d5",
+                "timestamp": "2022-11-17T04:55:08Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q62870",
+                "pageid": 65613,
+                "size": 96658,
+                "wordcount": 353,
+                "snippet": "Stephen Cook\n\u53f2\u63d0\u82ac\u00b7\u53e4\u514b\nStephen Cook\nStephen Cook\n\u041a\u0443\u043a, \u0421\u0442\u0438\u0432\u0435\u043d \u0410\u0440\u0442\u0443\u0440\nStephen Cook\n\uc2a4\ud2f0\ube10 \ucfe1\nStephen Cook\nStephen Cook\n\u0421\u0442\u0438\u0432\u0435\u043d \u041a\u0443\u043a\n\u0bb8\u0bcd\u0b9f\u0bc0\u0baa\u0ba9\u0bcd \u0b95\u0bc1\u0b95\u0bcd\nStephen Cook\nStephen",
+                "timestamp": "2022-11-07T01:00:38Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q8556",
+                "pageid": 9869,
+                "size": 147355,
+                "wordcount": 663,
+                "snippet": "Edsger Dijkstra\nEdsger W. Dijkstra\nEdsger W. Dijkstra\n\u0625\u062f\u0633\u062e\u0631 \u062f\u064a\u0643\u0633\u062a\u0631\u0627\nEdsger Dijkstra\n\u0415\u0434\u0441\u0445\u0435\u0440 \u0414\u0435\u0439\u043a\u0441\u0442\u0440\u0430\n\u098f\u099f\u09cd\u200c\u09b8\u0996\u09be\u09b0 \u09a1\u09c7\u0987\u0995\u09cd\u200c\u09b8\u09cd\u099f\u09cd\u09b0\u09be\nEdsger Dijkstra\nEdsger Dijkstra",
+                "timestamp": "2022-11-03T16:58:28Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92604",
+                "pageid": 94827,
+                "size": 103024,
+                "wordcount": 449,
+                "snippet": "\u5c3c\u514b\u52b3\u65af\u00b7\u7ef4\u5c14\u7279\n\u5c3c\u514b\u52de\u65af\u00b7\u7dad\u723e\u7279\n\u5c3c\u514b\u52de\u65af\u00b7\u7dad\u723e\u7279\n\u5c3c\u514b\u52b3\u65af\u00b7\u7ef4\u5c14\u7279\n\u5c3c\u514b\u52b3\u65af\u00b7\u7ef4\u5c14\u7279\n\u5c3c\u514b\u52de\u65af\u00b7\u7dad\u723e\u7279\nNiklaus Wirth\nNiklaus Wirth\n\ub2c8\ud074\ub77c\uc6b0\uc2a4 \uc6cc\uc2a4\nNiklaus Wirth\n\u05e0\u05d9\u05e7\u05dc\u05d0\u05d5\u05e1 \u05d5\u05d9\u05e8\u05ea\nNiklaus Wirth\nNiklauss Virts\nNiklaus",
+                "timestamp": "2022-11-27T16:02:20Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q357965",
+                "pageid": 341458,
+                "size": 94916,
+                "wordcount": 374,
+                "snippet": "Michael Rabin\n\u8fc8\u514b\u5c14\u00b7\u62c9\u5bbe\n\u9081\u514b\u723e\u00b7\u62c9\u8cd3\n\u7c73\u9ad8\u00b7\u62c9\u8cd3\n\u8fc8\u514b\u5c14\u00b7\u62c9\u5bbe\n\u8fc8\u514b\u5c14\u00b7\u62c9\u5bbe\n\u9ea5\u53ef\u00b7\u62c9\u8cd3\nMichael O. Rabin\nMichael Oser Rabin\n\u0420\u0430\u0431\u0438\u043d, \u041c\u0438\u0445\u0430\u044d\u043b\u044c \u041e\u0448\u0435\u0440\n\ub9c8\uc774\ud074 \ub77c\ube48\nMichael Rabin\n\u05de\u05d9\u05db\u05d0\u05dc \u05e8\u05d1\u05d9\u05df\nMichael Oser",
+                "timestamp": "2022-10-24T15:02:31Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q11609",
+                "pageid": 13138,
+                "size": 80200,
+                "wordcount": 370,
+                "snippet": "Shafrira Goldwasser\nShafrira Goldwasser\nShafrira Goldwasser\nShafrira Goldwasser\nShafi Goldwasser\nShafrira Goldwasser\nShafrira Goldwasser\nShafrira Goldwasser",
+                "timestamp": "2022-11-20T15:23:15Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92609",
+                "pageid": 94832,
+                "size": 135299,
+                "wordcount": 500,
+                "snippet": "\u4f5b\u745e\u5fb7\u00b7\u5e03\u9c81\u514b\u65af\n\u4f5b\u745e\u5fb7\u00b7\u5e03\u9b6f\u514b\u65af\n\u4f5b\u745e\u5fb7\u00b7\u5e03\u9b6f\u514b\u65af\n\u4f5b\u745e\u5fb7\u00b7\u5e03\u9c81\u514b\u65af\n\u4f5b\u745e\u5fb7\u00b7\u5e03\u9c81\u514b\u65af\n\u4f5b\u745e\u5fb7\u00b7\u5e03\u9b6f\u514b\u65af\nFred Brooks\nFred Brooks\nFred Brooks\nFrederick Brooks\nFrederick Brooks\n\u05e4\u05e8\u05d3 \u05d1\u05e8\u05d5\u05e7\u05e1\n\u0424\u0440\u0435\u0434\u0435\u0440\u0438\u043a \u0411\u0440\u0443\u043a\u0441\n\ud504\ub808\ub354\ub9ad",
+                "timestamp": "2022-11-28T10:39:46Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q439245",
+                "pageid": 414239,
+                "size": 97470,
+                "wordcount": 248,
+                "snippet": "\u827e\u4f26\u00b7\u7ebd\u5384\u5c14\n\u827e\u502b\u00b7\u7d10\u5384\u723e\n\u827e\u502b\u00b7\u7d10\u5384\u723e\n\u827e\u4f26\u00b7\u7ebd\u5384\u5c14\n\u827e\u4f26\u00b7\u7ebd\u5384\u5c14\n\u827e\u502b\u00b7\u7d10\u5384\u723e\nAllen Newell\nAllen Newell\nAllen Newell\nAllen Newell\n\u041d\u044c\u044e\u044d\u043b\u043b, \u0410\u043b\u043b\u0435\u043d\nAlen Njuel\n\u0410\u043b\u0435\u043d \u040a\u0443\u0435\u043b\nAllen Newell\nAllen Newell",
+                "timestamp": "2022-11-08T00:03:06Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92670",
+                "pageid": 94894,
+                "size": 110904,
+                "wordcount": 257,
+                "snippet": "Jack Dongarra\n\u30b8\u30e3\u30c3\u30af\u30fb\u30c9\u30f3\u30ac\u30e9\nJack Dongarra\nJack Dongarra\nJack Dongarra\nJack Dongarra\nJack Dongarra\nJack Dongarra\nJack Dongarra\nJack Dongarra\nJack Dongarra\nJack",
+                "timestamp": "2022-12-05T19:02:19Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92819",
+                "pageid": 95044,
+                "size": 82271,
+                "wordcount": 325,
+                "snippet": "\u7231\u5fb7\u8499\u00b7\u514b\u62c9\u514b\n\u611b\u5fb7\u8499\u00b7\u514b\u62c9\u514b\n\u611b\u5fb7\u8499\u00b7\u514b\u62c9\u514b\n\u7231\u5fb7\u8499\u00b7\u514b\u62c9\u514b\n\u7231\u5fb7\u8499\u00b7\u514b\u62c9\u514b\n\u611b\u5fb7\u8499\u00b7\u514b\u62c9\u514b\nEdmund Clarke\nEdmund M. Clarke\n\u098f\u09a1\u09ae\u09c1\u09a8\u09cd\u09a1 \u098f\u09ae. \u0995\u09cd\u09b2\u09be\u09b0\u09cd\u0995\n\u30a8\u30c9\u30e0\u30f3\u30c9\u30fb\u30af\u30e9\u30fc\u30af\nEdmund Clarke\n\u041a\u043b\u0430\u0440\u043a, \u042d\u0434\u043c\u0443\u043d\u0434 \u041c\u0435\u043b\u044c\u0441\u043e\u043d\nEdmund",
+                "timestamp": "2022-07-28T16:15:59Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92851",
+                "pageid": 95076,
+                "size": 86369,
+                "wordcount": 282,
+                "snippet": "\u5927\u536b\u00b7\u5e15\u7279\u68ee\n\u5927\u885b\u00b7\u5e15\u7279\u68ee\n\u5927\u885e\u00b7\u5e15\u7279\u68ee\n\u5927\u536b\u00b7\u5e15\u7279\u68ee\n\u5927\u536b\u00b7\u5e15\u7279\u68ee\n\u5927\u885b\u00b7\u5e15\u7279\u68ee\nDavid A. Patterson\nDavid A. Patterson\n\u30c7\u30a4\u30d3\u30c3\u30c9\u30fb\u30d1\u30bf\u30fc\u30bd\u30f3\nDavid A. Patterson\nDavid A. Patterson\nDavid A. Patterson\n\u062f\u064a\u0641\u064a\u062f",
+                "timestamp": "2022-12-06T02:13:21Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92613",
+                "pageid": 94836,
+                "size": 79274,
+                "wordcount": 270,
+                "snippet": "Leslie Lamport\nLeslie Lamport\nLeslie Lamport\nLeslie Lamport\n\u041b\u044d\u043c\u043f\u043e\u0440\u0442, \u041b\u0435\u0441\u043b\u0438\n\ub808\uc2ac\ub9ac \ub7a8\ud3ec\ud2b8\nLeslie Lamport\nLesli Lamport\n\u041b\u0435\u0441\u043b\u0438 \u041b\u0430\u043c\u043f\u043e\u0440\u0442\nLeslie Lamport\nLeslie Lamport",
+                "timestamp": "2022-08-20T09:45:45Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q62874",
+                "pageid": 65617,
+                "size": 82478,
+                "wordcount": 291,
+                "snippet": "\u7d04\u7ff0\u00b7\u970d\u666e\u514b\u6d1b\u592b\u7279\nJohn Hopcroft\nJohn Hopcroft\nJohn Hopcroft\n\u0414\u0436\u043e\u043d \u0425\u043e\u043f\u043a\u0440\u043e\u0444\u0442\nJohn Hopcroft\n\u040f\u043e\u043d \u0425\u043e\u043f\u043a\u0440\u043e\u0444\u0442\nJohn Hopcroft\nJohn Edward Hopcroft\nJohn Hopcroft\n\u0414\u0436\u043e\u043d \u0413\u043e\u043f\u043a\u0440\u043e\u0444\u0442",
+                "timestamp": "2022-07-25T10:54:48Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92854",
+                "pageid": 95079,
+                "size": 110871,
+                "wordcount": 326,
+                "snippet": "\u7ea6\u7ff0\u00b7\u8f69\u5c3c\u8bd7\n\u7d04\u7ff0\u00b7\u8ed2\u5c3c\u8a69\n\u7d04\u7ff0\u00b7\u8ed2\u5c3c\u8a69\n\u7ea6\u7ff0\u00b7\u8f69\u5c3c\u8bd7\n\u7ea6\u7ff0\u00b7\u8f69\u5c3c\u8bd7\n\u7d04\u7ff0\u00b7\u8ed2\u5c3c\u8a69\nJohn LeRoy Hennessy\nJohn L. Hennessy\n\u099c\u09a8 \u09b9\u09c7\u09a8\u09c7\u09b8\u09c0\n\u30b8\u30e7\u30f3\u30fb\u30d8\u30cd\u30b7\u30fc\n\u062c\u0627\u0646 \u0647\u0646\u0633\u06cc\n\u0425\u0435\u043d\u043d\u0435\u0441\u0441\u0438, \u0414\u0436\u043e\u043d \u041b\u0435\u0440\u043e\u0439\nJohn L. Hennessy\nJohn L",
+                "timestamp": "2022-11-16T14:32:45Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92628",
+                "pageid": 94851,
+                "size": 200168,
+                "wordcount": 241,
+                "snippet": "Juris Hartmanis\nJuris Hartmanis\nJuris Hartmanis\n\u042e\u0440\u0438\u0441 \u0425\u0430\u0440\u0442\u043c\u0430\u043d\u0438\u0441\nJuris Hartmanis\n\uc720\ub9ac\uc2a4 \ud558\ub974\ud2b8\ub9c8\ub2c8\uc2a4\nJuris Hartmanis\nJuris Hartmanis\nJuris Hartmanis\nJuris Hartmanis",
+                "timestamp": "2022-11-24T20:29:39Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q7143512",
+                "pageid": 7041322,
+                "size": 55083,
+                "wordcount": 247,
+                "snippet": "Pat Hanrahan\nPat Hanrahan\nPat Hanrahan\nPat Hanrahan\nPat Hanrahan\n\u5e15\u7279\u00b7\u6f22\u6069\u62c9\u7f55\n\u5e15\u7279\u00b7\u6c49\u6069\u62c9\u7f55\nPat Hanrahan\n\u5e15\u7279\u00b7\u6c49\u6069\u62c9\u7f55\nPat Hanrahan\nPat Hanrahan\nPat Hanrahan\n\ud33b \ud578\ub7ec\ud578\n\u0628\u0627\u062a",
+                "timestamp": "2022-07-25T10:53:44Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q62861",
+                "pageid": 65604,
+                "size": 85145,
+                "wordcount": 370,
+                "snippet": "Alan Perlis\n\u827e\u502b\u00b7\u5091\u00b7\u4f69\u5229\nAlan Perlis\nAlan Perlis\n\u0410\u043b\u0430\u043d \u0414\u0436\u0435\u0439 \u041f\u0435\u0440\u043b\u0438\u0441\n\uc568\ub7f0 \ud384\ub9ac\uc2a4\nAlan Perlis\n\u0410\u043b\u0430\u043d \u041f\u0435\u0440\u043b\u0438\u0441\nAlan Perlis\nAlan Perlis\nAlan Perlis\nAlan Perlis\n\u0410\u043b\u0430\u043d \u041f\u0435\u0440\u043b\u0456\u0441",
+                "timestamp": "2022-08-08T12:05:41Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q320624",
+                "pageid": 307999,
+                "size": 70855,
+                "wordcount": 206,
+                "snippet": "Adi Shamir\nAdi Shamir\nAdi \u0160amir\nAdi Shamir\n\uc544\ub514 \uc0e4\ubbf8\ub974\n\u0410\u0434\u0438 \u0428\u0430\u043c\u0438\u0440\n\u05e2\u05d3\u05d9 \u05e9\u05de\u05d9\u05e8\nAdi Shamir\nAdi \u0160amir\n\u0410\u0434\u0438 \u0428\u0430\u043c\u0438\u0440\nAdi Shamir\nAdi Shamir\nAdi Shamir\nAdi Shamir\nAdi Shamir",
+                "timestamp": "2022-09-30T16:55:24Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q45575",
+                "pageid": 47740,
+                "size": 111039,
+                "wordcount": 739,
+                "snippet": "\u4e39\u5c3c\u65af\u00b7\u91cc\u5947\nDennis Ritchie\nDennis Ritchie\nDennis Ritchie\nDennis Ritchie\n\u0ba4\u0bc6\u0ba9\u0bcd\u0ba9\u0bbf\u0b9a\u0bc1 \u0b87\u0bb0\u0bbf\u0b9f\u0bcd\u0b9a\u0bbf\nDennis Ritchie\nDennis M. Ritchie\nDennis Ritchie\n\u09a1\u09c7\u09a8\u09bf\u09b8 \u09b0\u09bf\u099a\u09bf\n\u039d\u03c4\u03ad\u03bd\u03b9\u03c2 \u03a1\u03af\u03c4\u03c3\u03b9",
+                "timestamp": "2022-11-28T08:57:22Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q1107006",
+                "pageid": 1054299,
+                "size": 69130,
+                "wordcount": 528,
+                "snippet": "Ken Thompson\nKen Thompson\nKen Thompson\n\u80af\u00b7\u6c64\u666e\u900a\n\u041a\u0435\u043d \u0422\u043e\u043c\u043f\u0441\u043e\u043d\nKen Thompson\n\ucf04 \ud1b0\ud504\uc2a8\nKen Thompson\n\u0915\u0947\u0928 \u0925\u0949\u092e\u094d\u092a\u094d\u0938\u0928\nKen Thompson\nKenneth Thompson\n\u06a9\u0646\u062a \u062a\u0627\u0645\u0633\u0648\u0646\n\u0643\u064a\u0646 \u062a\u0648\u0645\u0633\u0646",
+                "timestamp": "2022-10-09T08:30:27Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92614",
+                "pageid": 94837,
+                "size": 121284,
+                "wordcount": 691,
+                "snippet": "\u9053\u683c\u62c9\u65af\u00b7\u6069\u683c\u5c14\u5df4\u7279\n\u9053\u683c\u62c9\u65af\u00b7\u6069\u683c\u723e\u5df4\u7279\n\u9053\u683c\u62c9\u65af\u00b7\u6069\u683c\u723e\u5df4\u7279\n\u9053\u683c\u62c9\u65af\u00b7\u6069\u683c\u5c14\u5df4\u7279\n\u9053\u683c\u62c9\u65af\u00b7\u6069\u683c\u5c14\u5df4\u7279\n\u9053\u683c\u62c9\u65af\u00b7\u6069\u683c\u723e\u5df4\u7279\nDouglas Engelbart\nDouglas Engelbart\n\ub354\uae00\ub7ec\uc2a4 \uc5e5\uac94\ubc14\ud2b8\nDouglas Engelbart\n\u05d3\u05d0\u05d2\u05dc\u05e1 \u05d0\u05e0\u05d2\u05dc\u05d1\u05e8\u05d8\nDouglas",
+                "timestamp": "2022-11-25T11:36:42Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q62888",
+                "pageid": 65631,
+                "size": 74842,
+                "wordcount": 321,
+                "snippet": "\u59da\u671f\u667a\nAndrew Chi-Chih Yao\nAndrew Jao\nAndrew Yao\n\u05d0\u05e0\u05d3\u05e8\u05d5 \u05d9\u05d0\u05d5\n\u042f\u043e, \u042d\u043d\u0434\u0440\u044e\nAndrew Yao\n\uc564\ub4dc\ub8e8 \uc57c\uc624\n\u0415\u043d\u0434\u0440\u0443 \u0408\u0430\u0443\nAndrew Yao\nAndrew Yao\nAndrew Yao\nAndrew Chi-Chih Yao\n\u0415\u043d\u0434\u0440\u044e",
+                "timestamp": "2022-09-26T16:25:44Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q93080",
+                "pageid": 95306,
+                "size": 57747,
+                "wordcount": 283,
+                "snippet": "Silvio Micali\nSilvio Micali\nSilvio Micali\nSilvio Micali\nSilvio Micali\nSilvio Micali\nSilvio Micali\nSilvio Micali\nSilvio Micali\nSilvio Micali\nSilvio Micali",
+                "timestamp": "2022-11-09T05:28:52Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q476466",
+                "pageid": 449118,
+                "size": 62357,
+                "wordcount": 267,
+                "snippet": "Martin Hellman\nMartin Edward Hellman\nMartin Hellman\nMartin Hellman\n\u05de\u05e8\u05d8\u05d9\u05df \u05d4\u05dc\u05de\u05df\nMartin Hellman\nMartin Hellman\n\u30de\u30fc\u30c6\u30a3\u30f3\u30fb\u30d8\u30eb\u30de\u30f3\nMartin Hellman\nMartin Hellman\nMartin",
+                "timestamp": "2022-11-07T18:50:55Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92820",
+                "pageid": 95045,
+                "size": 67345,
+                "wordcount": 267,
+                "snippet": "Raj Reddy\nRaj Reddy\n\u09b0\u09be\u099c \u09b0\u09c7\u09a1\u09cd\u09a1\u09bf\n\u30e9\u30b8\u30fb\u30ec\u30c7\u30a3\nRaj Reddy\nRaj Reddy\nRaj Reddy\n\u0420\u0430\u0434\u0436 \u0420\u0435\u0434\u0434\u0438\nRaj Reddy\nRaj Reddy\nRaj Reddy\nRaj Reddy\nRaj Reddy\nRaj Reddy\nRaj Reddy\n\u0c21\u0c3e",
+                "timestamp": "2022-12-02T14:24:29Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92649",
+                "pageid": 94872,
+                "size": 78778,
+                "wordcount": 264,
+                "snippet": "\u963f\u7c73\u5c14\u00b7\u4f2f\u52aa\u5229\n\u963f\u7c73\u723e\u00b7\u4f2f\u52aa\u5229\n\u963f\u7c73\u723e\u00b7\u4f2f\u52aa\u5229\n\u963f\u7c73\u5c14\u00b7\u4f2f\u52aa\u5229\n\u963f\u7c73\u5c14\u00b7\u4f2f\u52aa\u5229\n\u963f\u7c73\u723e\u00b7\u4f2f\u52aa\u5229\nAmir Pnueli\nAmir Pnueli\nAmir Pnueli\nAmir Pnueli\n\u05d0\u05de\u05d9\u05e8 \u05e4\u05e0\u05d5\u05d0\u05dc\u05d9\n\u0410\u043c\u0438\u0440 \u041f\u043d\u0443\u044d\u043b\u0438\nAmir Pnueli\n\u0410\u043c\u0438\u0440 \u041f\u043d\u0443\u0435\u043b\u0438\nAmir Pnueli",
+                "timestamp": "2022-11-05T12:43:34Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q62898",
+                "pageid": 65641,
+                "size": 65162,
+                "wordcount": 314,
+                "snippet": "\u963f\u5c14\u4f5b\u96f7\u5fb7\u00b7\u827e\u4faf\nAlfred Aho\nAlfred V. Aho\nAlfred Aho\nAlfred Aho\n\u0410\u043b\u044c\u0444\u0440\u0435\u0434 \u0410\u0445\u043e\n\uc568\ud504\ub9ac\ub4dc \uc5d0\uc774\ud638\nAlfred Aho\nAlfred Aho\nAlfred Aho\n\u0410\u043b\u044c\u0444\u0440\u0435\u0434 \u0410\u0445\u043e\nAlfred Aho\nAlfred Aho\nAlfred",
+                "timestamp": "2022-12-03T16:12:35Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92641",
+                "pageid": 94864,
+                "size": 65949,
+                "wordcount": 378,
+                "snippet": "Robert Floyd\n\u7f57\u4f2f\u7279\u00b7\u5f17\u6d1b\u4f0a\u5fb7\n\u7f85\u4f2f\u7279\u00b7\u5f17\u6d1b\u4f0a\u5fb7\n\u7f85\u4f2f\u7279\u00b7\u5f17\u6d1b\u4f0a\u5fb7\n\u7f57\u4f2f\u7279\u00b7\u5f17\u6d1b\u4f0a\u5fb7\n\u7f57\u4f2f\u7279\u00b7\u5f17\u6d1b\u4f0a\u5fb7\n\u7f85\u4f2f\u7279\u00b7\u5f17\u6d1b\u4f0a\u5fb7\nRobert W. Floyd\nRobert Floyd\nRobert Floyd\n\u0420\u043e\u0431\u0435\u0440\u0442 \u0424\u043b\u043e\u0439\u0434\n\ub85c\ubc84\ud2b8 \ud50c\ub85c\uc774\ub4dc\nRobert Flojd\n\u0420\u043e\u0431\u0435\u0440\u0442",
+                "timestamp": "2022-09-16T01:37:36Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92742",
+                "pageid": 94967,
+                "size": 68952,
+                "wordcount": 433,
+                "snippet": "\u827e\u4f26\u00b7\u51ef\n\u827e\u502b\u00b7\u51f1\n\u827e\u502b\u00b7\u51f1\n\u827e\u4f26\u00b7\u51ef\n\u827e\u4f26\u00b7\u51ef\n\u827e\u502b\u00b7\u51f1\nAlan Kay\nAlan Kay\n\uc568\ub7f0 \ucf00\uc774\nAlan Kay\nAlan Kay\nAlan Kay\nAlan Kay\n\u30a2\u30e9\u30f3\u30fb\u30b1\u30a4\n\u0d05\u0d32\u0d7b \u0d15\u0d47\n\u098f\u09b2\u09be\u09a8 \u0995\u09c7\nAlan Kay\nAlan Kay\nAlan Kay\nAlan Kay\n\u041a\u044d\u0439",
+                "timestamp": "2022-10-12T17:50:50Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q93154",
+                "pageid": 95369,
+                "size": 109271,
+                "wordcount": 648,
+                "snippet": "\u83b1\u65af\u5229\u00b7\u74e6\u5229\u5b89\u7279\n\u840a\u65af\u5229\u00b7\u74e6\u5229\u5b89\u7279\n\u840a\u65af\u5229\u00b7\u74e6\u5229\u5b89\u7279\n\u83b1\u65af\u5229\u00b7\u74e6\u5229\u5b89\u7279\n\u83b1\u65af\u5229\u00b7\u74e6\u5229\u5b89\u7279\n\u840a\u65af\u5229\u00b7\u74e6\u5229\u5b89\u7279\nLeslie Valiant\nLeslie Valiant\n\u30ec\u30b9\u30ea\u30fc\u30fb\u30f4\u30a1\u30ea\u30a2\u30f3\u30c8\nLeslie Valiant\nLeslie Valiant\nLeslie Valiant\n\u05dc\u05e1\u05dc\u05d9 \u05d5\u05dc\u05d9\u05d0\u05e0\u05d8",
+                "timestamp": "2022-10-18T11:05:27Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q62843",
+                "pageid": 65586,
+                "size": 87093,
+                "wordcount": 361,
+                "snippet": "Robert Kahn\n\u7f57\u4f2f\u7279\u00b7\u5361\u6069\nBob Kahn\nRobert Kahn\nRobert E. Kahn\n\u041a\u0430\u043d, \u0420\u043e\u0431\u0435\u0440\u0442 \u042d\u043b\u043b\u0438\u043e\u0442\n\ub85c\ubc84\ud2b8 \uce78\n\u0420\u043e\u0431\u0435\u0440\u0442 \u041a\u0430\u043d\nBob Kahn\nBob Kahn\nBob Kahn\nRobert Kahn\nBob Kahn\nBob Kahn\nRobert",
+                "timestamp": "2022-11-10T13:38:43Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92643",
+                "pageid": 94866,
+                "size": 70611,
+                "wordcount": 297,
+                "snippet": "Robin Milner\n\u7f57\u5bbe\u00b7\u7c73\u5c14\u7eb3\n\u7f85\u8cd3\u00b7\u7c73\u723e\u7d0d\n\u7f85\u8cd3\u00b7\u7c73\u723e\u7d0d\n\u7f57\u5bbe\u00b7\u7c73\u5c14\u7eb3\n\u7f57\u5bbe\u00b7\u7c73\u5c14\u7eb3\n\u7f85\u8cd3\u00b7\u7c73\u723e\u7d0d\nRobin Milner\nRobin Milner\n\u041c\u0438\u043b\u043d\u0435\u0440, \u0420\u043e\u0431\u0438\u043d\nRobin Milner\nRobin Milner\nRobin Milner\n\u0420\u043e\u0431\u0438\u043d \u041c\u0438\u043b\u043d\u0435\u0440\nRobin",
+                "timestamp": "2022-09-24T21:12:37Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92823",
+                "pageid": 95048,
+                "size": 76987,
+                "wordcount": 292,
+                "snippet": "Edward Feigenbaum\nEdward Feigenbaum\n\u30a8\u30c9\u30ef\u30fc\u30c9\u30fb\u30d5\u30a1\u30a4\u30b2\u30f3\u30d0\u30a6\u30e0\n\u098f\u09a1\u0993\u09af\u09bc\u09be\u09b0\u09cd\u09a1 \u0986\u09b2\u09ac\u09be\u09b0\u09cd\u099f\nEdward Feigenbaum\nEdward Feigenbaum\n\u0424\u0435\u0439\u0433\u0435\u043d\u0431\u0430\u0443\u043c, \u042d\u0434\u0432\u0430\u0440\u0434 \u0410\u043b\u044c\u0431\u0435\u0440\u0442\nEdward Feigenbaum\nEdward",
+                "timestamp": "2022-11-21T05:30:36Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q462089",
+                "pageid": 435852,
+                "size": 64024,
+                "wordcount": 253,
+                "snippet": "Whitfield Diffie\nWhitfield Diffie\nWhitfield Diffie\n\ud72b\ud544\ub4dc \ub514\ud53c\n\u05d5\u05d9\u05d8\u05e4\u05d9\u05dc\u05d3 \u05d3\u05d9\u05e4\u05d9\nWhitfield Diffie\n\u0414\u0438\u0444\u0444\u0438, \u0423\u0438\u0442\u0444\u0438\u043b\u0434\nWhitfield Diffie\nWhitfield Diffie\nWhitfield Diffie",
+                "timestamp": "2022-10-15T22:21:27Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q62866",
+                "pageid": 65609,
+                "size": 66348,
+                "wordcount": 360,
+                "snippet": "Ivan Sutherland\nIvan Sutherland\nIvan Sutherland\nIvan Sutherland\nIvan Sutherland\n\uc544\uc774\ubc88 \uc11c\ub35c\ub79c\ub4dc\n\u0410\u0439\u0432\u0435\u043d \u0421\u0430\u0437\u0435\u0440\u043b\u0435\u043d\u0434\nIvan Sutherland\nIvan Sutherland\n\u0410\u0458\u0432\u0430\u043d \u0421\u0430\u0434\u0435\u0440\u043b\u0430\u043d\u0434",
+                "timestamp": "2022-10-10T09:29:55Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92629",
+                "pageid": 94852,
+                "size": 65364,
+                "wordcount": 367,
+                "snippet": "\u80af\u5c3c\u65af\u00b7\u827e\u4f5b\u68ee\n\u80af\u5c3c\u65af\u00b7\u827e\u4f5b\u68ee\n\u80af\u5c3c\u65af\u00b7\u827e\u4f5b\u68ee\n\u80af\u5c3c\u65af\u00b7\u827e\u4f5b\u68ee\n\u80af\u5c3c\u65af\u00b7\u827e\u4f5b\u68ee\n\u80af\u5c3c\u65af\u00b7\u827e\u4f5b\u68ee\nKenneth Iverson\nKenneth E. Iverson\nKenneth E. Iverson\nKenneth Iverson\n\ucf00\ub124\uc2a4 \uc544\uc774\ubc84\uc2a8\nKenneth Iverson\n\u041a\u0435\u043d\u043d\u0435\u0442 \u0410\u0439\u0432\u0435\u0440\u0441\u043e\u043d",
+                "timestamp": "2022-08-24T16:44:19Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92618",
+                "pageid": 94841,
+                "size": 72245,
+                "wordcount": 302,
+                "snippet": "\u5f7c\u5f97\u00b7\u8bfa\u5c14\n\u5f7c\u5f97\u00b7\u8afe\u723e\n\u5f7c\u5f97\u00b7\u8afe\u723e\n\u5f7c\u5f97\u00b7\u8bfa\u5c14\n\u5f7c\u5f97\u00b7\u8bfa\u5c14\n\u5f7c\u5f97\u00b7\u8afe\u723e\nPeter Naur\nPeter Naur\n\ud398\ud14c\ub974 \ub098\uc6b0\ub974\n\u05e4\u05d8\u05e8 \u05e0\u05d0\u05d5\u05e8\nPeter Naur\nPeters Naurs\nPeter Naur\nPeter Naur\n\u30d4\u30fc\u30bf\u30fc\u30fb\u30ca\u30a6\u30a2\nPeter Naur\nPeter Naur",
+                "timestamp": "2022-11-17T19:43:11Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92822",
+                "pageid": 95047,
+                "size": 146638,
+                "wordcount": 288,
+                "snippet": "Richard Stearns\nRichard E. Stearns\n\u09b0\u09bf\u099a\u09be\u09b0\u09cd\u09a1 \u098f\u09a1\u0989\u0987\u09a8 \u09b8\u09cd\u099f\u09be\u09b0\u09cd\u09a8\u09b8\n\u30ea\u30c1\u30e3\u30fc\u30c9\u30fb\u30b9\u30bf\u30fc\u30f3\u30ba\nRichard Stearns\nRichard Stearns\nRichard Stearns\n\u0421\u0442\u0435\u0440\u043d\u0441, \u0420\u0438\u0447\u0430\u0440\u0434 \u042d\u0434\u0432\u0438\u043d\nRichard Stearns",
+                "timestamp": "2022-11-16T15:53:54Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92596",
+                "pageid": 94819,
+                "size": 57580,
+                "wordcount": 549,
+                "snippet": "\u57c3\u5fb7\u52a0\u00b7\u79d1\u5fb7\n\u57c3\u5fb7\u52a0\u00b7\u79d1\u5fb7\n\u57c3\u5fb7\u52a0\u00b7\u79d1\u5fb7\n\u57c3\u5fb7\u52a0\u00b7\u79d1\u5fb7\n\u57c3\u5fb7\u52a0\u00b7\u79d1\u5fb7\n\u57c3\u5fb7\u52a0\u00b7\u79d1\u5fb7\nEdgar Frank Codd\nEdgar Frank Codd\n\u05d0\u05d3\u05d2\u05e8 \u05e7\u05d5\u05d3\n\uc5d0\ub4dc\uac70 F. \ucee4\ub4dc\nEdgar Frank Codd\nEdgar F. Codd\nEdgar F. Codd\nEdgar Frank",
+                "timestamp": "2022-11-21T21:17:20Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92746",
+                "pageid": 94971,
+                "size": 76249,
+                "wordcount": 450,
+                "snippet": "\u7ea6\u7ff0\u00b7\u5df4\u79d1\u65af\n\u7d04\u7ff0\u00b7\u5df4\u79d1\u65af\n\u7d04\u7ff0\u00b7\u5df4\u79d1\u65af\n\u7ea6\u7ff0\u00b7\u5df4\u79d1\u65af\n\u7ea6\u7ff0\u00b7\u5df4\u79d1\u65af\n\u7d04\u7ff0\u00b7\u5df4\u79d1\u65af\nJohn Backus\nJohn Backus\n\uc874 \ubc30\ucee4\uc2a4\nJohn Backus\nJohn Backus\nD\u017eons Bekuss\nJohn Backus\nJohn Backus\nJohn Backus\nJohn W",
+                "timestamp": "2022-11-17T06:57:59Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q918650",
+                "pageid": 869074,
+                "size": 60347,
+                "wordcount": 396,
+                "snippet": "Leonard Adleman\n\u09b2\u09c7\u09a8\u09be\u09b0\u09cd\u09a1 \u098f\u09a1\u09b2\u09ae\u09cd\u09af\u09be\u09a8\nLeonard Adleman\nLeonard Adleman\nLeonard Adleman\n\u0644\u0626\u0648\u0646\u0627\u0631\u062f \u0622\u062f\u0644\u0645\u0646\nLeonard Adleman\n\u05dc\u05d0\u05d5\u05e0\u05e8\u05d3 \u05d0\u05d3\u05dc\u05de\u05df\nLeonard Adleman\nLeonard Adleman",
+                "timestamp": "2022-09-16T15:45:26Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q62857",
+                "pageid": 65600,
+                "size": 114720,
+                "wordcount": 406,
+                "snippet": "\u83ab\u91cc\u65af\u00b7\u5a01\u5c14\u514b\u65af\nMaurice Wilkes\nMaurice Vincent Wilkes\n\u05de\u05d5\u05e8\u05d9\u05e1 \u05d5\u05d9\u05e0\u05e1\u05e0\u05d8 \u05d5\u05d9\u05dc\u05e7\u05e1\nMaurice Wilkes\nMaurice Wilkes\nMaurice Wilkes\nMaurice V. Wilkes\n\u09ae\u09b0\u09bf\u09b8 \u09ad\u09bf\u09a8\u09b8\u09c7\u09a8\u09cd\u099f \u0989\u0987\u09b2\u0995\u09bf\u09b8\n\u0d2e\u0d57\u0d31\u0d40\u0d38\u0d4d",
+                "timestamp": "2022-10-31T11:09:14Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92619",
+                "pageid": 94842,
+                "size": 104178,
+                "wordcount": 431,
+                "snippet": "\u7406\u67e5\u5fb7\u00b7\u536b\u65af\u91cc\u00b7\u6c49\u660e\n\u7406\u67e5\u5fb7\u00b7\u885b\u65af\u91cc\u00b7\u6f22\u660e\n\u7406\u67e5\u5fb7\u00b7\u885e\u65af\u91cc\u00b7\u6f22\u660e\n\u7406\u67e5\u5fb7\u00b7\u536b\u65af\u91cc\u00b7\u6c49\u660e\n\u7406\u67e5\u5fb7\u00b7\u536b\u65af\u91cc\u00b7\u6c49\u660e\n\u7406\u5bdf\u00b7\u885b\u65af\u91cc\u00b7\u6f22\u660e\nRichard Hamming\nRichard Hamming\nRichard Hamming\n\ub9ac\ucc98\ub4dc \ud574\ubc0d\n\u0420\u0438\u0447\u0430\u0440\u0434 \u0423\u044d\u0441\u043b\u0438 \u0425\u044d\u043c\u043c\u0438\u043d\u0433\nRichard Hamming",
+                "timestamp": "2022-09-11T08:12:14Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92821",
+                "pageid": 95046,
+                "size": 49664,
+                "wordcount": 272,
+                "snippet": "Ernest Allen Emerson\nAllen Emerson\n\u0986\u09b0\u09cd\u09a8\u09c7\u09b8\u09cd\u099f \u0985\u09cd\u09af\u09be\u09b2\u09c7\u09a8 \u098f\u09ae\u09be\u09b0\u09b8\u09a8\n\u30a2\u30ec\u30f3\u30fb\u30a8\u30de\u30fc\u30bd\u30f3\nErnest Allen Emerson\n\u042d\u043c\u0435\u0440\u0441\u043e\u043d, \u042d\u0440\u043d\u0435\u0441\u0442 \u0410\u043b\u043b\u0435\u043d\nAllen Emerson\nE. Allen Emerson\nE. Allen",
+                "timestamp": "2022-09-20T20:52:19Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q62877",
+                "pageid": 65620,
+                "size": 91707,
+                "wordcount": 376,
+                "snippet": "James H. Wilkinson\n\u8a79\u59c6\u65af\u00b7\u54c8\u8fea\u00b7\u5a01\u5c14\u91d1\u68ee\nJames H. Wilkinson\nJames Hardy Wilkinson\nJames H. Wilkinson\n\u0423\u0438\u043b\u043a\u0438\u043d\u0441\u043e\u043d, \u0414\u0436\u0435\u0439\u043c\u0441 \u0425\u0430\u0440\u0434\u0438\nJames H. Wilkinson\nJames Wilkinson\n\u040f\u0435\u0458\u043c\u0441",
+                "timestamp": "2022-10-10T06:02:03Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92782",
+                "pageid": 95007,
+                "size": 33774,
+                "wordcount": 287,
+                "snippet": "William Kahan\nWilliam Kahan\nWilliam Kahan\nWilliam Kahan\n\u0423\u0438\u043b\u044c\u044f\u043c \u041c\u043e\u0440\u0442\u043e\u043d \u041a\u044d\u0445\u044d\u043d\nWilliam Kahan\nVilijam Kon\n\u0412\u0438\u043b\u0438\u0458\u0430\u043c \u041a\u043e\u043d\nWilliam Kahan\n\u0648\u06cc\u0644\u06cc\u0627\u0645 \u06a9\u0627\u06be\u0627\u0646\nWilliam Kahan",
+                "timestamp": "2022-09-04T14:42:43Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92632",
+                "pageid": 94855,
+                "size": 48695,
+                "wordcount": 230,
+                "snippet": "John Cocke\nJohn Cocke\nJohn Cocke\nJohn Cocke\n\u041a\u043e\u043a, \u0414\u0436\u043e\u043d\nJohn Cocke\nJohn Cocke\nJohn Cocke\nD\u017eon Kok\n\u040f\u043e\u043d \u041a\u043e\u043a\nJohn Cocke\nJohn Cocke\nJohn Cocke\n\u099c\u09a8 \u0995\u09cb\u0995\n\u30b8\u30e7\u30f3\u30fb\u30b3\u30c3\u30af",
+                "timestamp": "2022-04-05T22:32:04Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q93161",
+                "pageid": 95374,
+                "size": 68746,
+                "wordcount": 356,
+                "snippet": "\u827e\u5fb7\u6587\u00b7\u5361\u7279\u59c6\n\u827e\u5fb7\u6587\u00b7\u5361\u7279\u59c6\n\u827e\u5fb7\u6587\u00b7\u5361\u7279\u59c6\n\u827e\u5fb7\u6587\u00b7\u5361\u7279\u59c6\n\u827e\u5fb7\u6587\u00b7\u5361\u7279\u59c6\n\u827e\u5fb7\u6587\u00b7\u5361\u7279\u59c6\nEdwin Catmull\n\u0625\u062f\u0648\u064a\u0646 \u0643\u0627\u062a\u0645\u0648\u0644\nEdwin Catmull\n\u0415\u0434\u0432\u0456\u043d \u041a\u0435\u0442\u043c\u0435\u043b\u043b\n\uc5d0\ub4dc\uc708 \ucea3\uba40\nEdwin Catmull\nEdwin Catmull\nEdwin Catmull",
+                "timestamp": "2022-10-09T05:40:10Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92744",
+                "pageid": 94969,
+                "size": 62665,
+                "wordcount": 312,
+                "snippet": "\u514b\u5229\u65af\u767b\u00b7\u5948\u52a0\u7279\n\u514b\u5229\u65af\u767b\u00b7\u5948\u52a0\u7279\n\u514b\u5229\u65af\u767b\u00b7\u5948\u52a0\u7279\n\u514b\u5229\u65af\u767b\u00b7\u5948\u52a0\u7279\n\u514b\u5229\u65af\u767b\u00b7\u5948\u52a0\u7279\n\u514b\u5229\u65af\u767b\u00b7\u5948\u52a0\u7279\nKristen Nygaard\nKristen Nygaard\nKristen Nygaard\nKristen Nygaard\n\u041d\u044e\u0433\u043e\u0440\u0434, \u041a\u0440\u0438\u0441\u0442\u0435\u043d\nKristen Nygaard\nKristen",
+                "timestamp": "2022-08-10T11:29:27Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92606",
+                "pageid": 94829,
+                "size": 57983,
+                "wordcount": 359,
+                "snippet": "James Gray\n\u8a79\u59c6\u65af\u00b7\u5c3c\u53e4\u62c9\u00b7\u683c\u96f7\n\u8a79\u59c6\u65af\u00b7\u5c3c\u53e4\u62c9\u00b7\u683c\u96f7\n\u8a79\u59c6\u65af\u00b7\u5c3c\u53e4\u62c9\u00b7\u683c\u96f7\n\u8a79\u59c6\u65af\u00b7\u5c3c\u53e4\u62c9\u00b7\u683c\u96f7\n\u8a79\u59c6\u65af\u00b7\u5c3c\u53e4\u62c9\u00b7\u683c\u96f7\n\u8a79\u59c6\u65af\u00b7\u5c3c\u53e4\u62c9\u00b7\u683c\u96f7\nJames N. Gray\nJames N. Gray\nJames Gray\nJames Gray\n\u0413\u0440\u0435\u0439, \u0414\u0436\u0438\u043c\nJames Gray\nJim",
+                "timestamp": "2022-11-28T13:05:40Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92781",
+                "pageid": 95006,
+                "size": 59380,
+                "wordcount": 341,
+                "snippet": "Joseph Sifakis\nJoseph Sifakis\nJoseph Sifakis\n\u0421\u0438\u0444\u0430\u043a\u0438\u0441, \u0418\u043e\u0441\u0438\u0444\nIosif Sifakis\nJoseph Sifakis\nJoseph Sifakis\n\u0419\u043e\u0441\u0438\u0444 \u0421\u0456\u0444\u0430\u043a\u0456\u0441\nJoseph Sifakis\nJoseph Sifakis\n\u30b8\u30e7\u30bb\u30d5\u30fb\u30b7\u30d5\u30a1\u30ad\u30b9",
+                "timestamp": "2022-09-30T16:48:18Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q9602",
+                "pageid": 10991,
+                "size": 89175,
+                "wordcount": 505,
+                "snippet": "Frances E. Allen\nFrances E. Allen\n\u0641\u0631\u0627\u0646\u0633\u064a\u0633 \u0625\u0644\u064a\u0632\u0627\u0628\u064a\u062b\n\u09ab\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09bf\u09b8 \u098f\u09b2\u09bf\u099c\u09be\u09ac\u09c7\u09a5 \u0985\u09cd\u09af\u09be\u09b2\u09c7\u09a8\nFrances E. Allenov\u00e1\nFrances Elizabeth Allen\n\u0641\u0631\u0627\u0646\u0633\u06cc\u0633 \u0622\u0644\u0646\nFrances E. Allen",
+                "timestamp": "2022-12-02T22:16:54Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92625",
+                "pageid": 94848,
+                "size": 68881,
+                "wordcount": 364,
+                "snippet": "Fernando Corbat\u00f3\nFernando Corbat\u00f3\nFernando Corbat\u00f3\n\u041a\u043e\u0440\u0431\u0430\u0442\u043e, \u0424\u0435\u0440\u043d\u0430\u043d\u0434\u043e \u0425\u043e\u0441\u0435\nFernando Corbat\u00f3\nFernando H. Korbato\n\u0424\u0435\u0440\u043d\u0430\u043d\u0434\u043e \u0425. \u041a\u043e\u0440\u0431\u0430\u0442\u043e\nFernando Corbat\u00f3\nFernando",
+                "timestamp": "2022-11-05T11:07:56Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q62894",
+                "pageid": 65637,
+                "size": 60314,
+                "wordcount": 322,
+                "snippet": "\u67e5\u5c14\u65af\u00b7\u5df4\u8d6b\u66fc\nCharles Bachman\nCharles Bachman\nCharles Bachman\nCharles Bachman\n\u0427\u0430\u0440\u043b\u044c\u0437 \u0423\u0438\u043b\u044c\u044f\u043c \u0411\u0430\u0445\u043c\u0430\u043d\n\ucc30\uc2a4 \ubc14\ud06c\ub9cc\n\u0427\u0430\u0440\u043b\u0441 \u0411\u0430\u043a\u043c\u0430\u043d\nCharles Bachman\nCharles Bachman\nCharles",
+                "timestamp": "2022-09-19T09:50:08Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92644",
+                "pageid": 94867,
+                "size": 61216,
+                "wordcount": 294,
+                "snippet": "Butler Lampson\n\u5df4\u7279\u52d2\u00b7\u5170\u666e\u68ee\n\u5df4\u7279\u52d2\u00b7\u862d\u666e\u68ee\n\u5df4\u7279\u52d2\u00b7\u862d\u666e\u68ee\n\u5df4\u7279\u52d2\u00b7\u5170\u666e\u68ee\n\u5df4\u7279\u52d2\u00b7\u5170\u666e\u68ee\n\u5df4\u7279\u52d2\u00b7\u862d\u666e\u68ee\nButler Lampson\nButler Lampson\n\u041b\u044d\u043c\u043f\u0441\u043e\u043d, \u0411\u0430\u0442\u043b\u0435\u0440 \u0412.\nButler Lampson\n\ubc84\ud2c0\ub7ec \ub7a8\uc2a8\nButler Lampson\nButler",
+                "timestamp": "2022-11-10T13:43:53Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92745",
+                "pageid": 94970,
+                "size": 60220,
+                "wordcount": 368,
+                "snippet": "Ole-Johan Dahl\n\u5965\u5229-\u7ea6\u7ff0\u00b7\u8fbe\u5c14\n\u5967\u5229-\u7d04\u7ff0\u00b7\u9054\u723e\n\u5967\u5229-\u7d04\u7ff0\u00b7\u9054\u723e\n\u5965\u5229-\u7ea6\u7ff0\u00b7\u8fbe\u5c14\n\u5965\u5229-\u7ea6\u7ff0\u00b7\u8fbe\u5c14\n\u5967\u5229-\u7d04\u7ff0\u00b7\u9054\u723e\nOle-Johan Dahl\nOle-Johan Dahl\n\u0414\u0430\u043b\u044c, \u041e\u043b\u0435-\u0419\u043e\u0445\u0430\u043d\nOle-Johan Dahl\nOle-Johan Dahl\nOle-Johan",
+                "timestamp": "2022-11-10T13:37:16Z"
+            },
+            {
+                "ns": 0,
+                "title": "Q92828",
+                "pageid": 95053,
+                "size": 43498,
+                "wordcount": 300,
+                "snippet": "\u67e5\u5c14\u65af\u00b7\u8428\u514b\u5c14\n\u67e5\u723e\u65af\u00b7\u85a9\u514b\u723e\n\u67e5\u723e\u65af\u00b7\u85a9\u514b\u723e\n\u67e5\u5c14\u65af\u00b7\u8428\u514b\u5c14\n\u67e5\u5c14\u65af\u00b7\u8428\u514b\u5c14\n\u67e5\u723e\u65af\u00b7\u85a9\u514b\u723e\nCharles Thacker\nCharles P. Thacker\n\u30c1\u30e3\u30c3\u30af\u30fb\u30b5\u30c3\u30ab\u30fc\n\u099a\u09be\u09b0\u09cd\u09b2\u09b8 \u09aa\u09bf. \u09a5\u09cd\u09af\u09be\u0995\u09be\u09b0\nCharles Thacker\nCharles P. Thacker\n\u0422\u0435\u043a\u0435\u0440",
+                "timestamp": "2022-12-01T01:57:59Z"
+            }
+        ]
+    }
+}
